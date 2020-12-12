@@ -11,4 +11,4 @@ print(a*b)
 
 #OR GATE
 print("OR gate with both variables:\n")
-print(a+(1*b)-(a*b))
+print((a+b)-(a*b))
