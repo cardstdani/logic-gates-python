@@ -20,3 +20,7 @@ print((a*b)+1-(a+b))
 #XOR GATE
 print("XOR gate with both variables:\n")
 print(-1*(a**b - 1))
+
+#XNOR GATE
+print("XNOR gate with both variables:\n")
+print((a*b) + 0**(a+b))
